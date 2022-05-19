@@ -1,1 +1,1 @@
-# encapsulation-grade-activity
+# Encapsulation Grade Activity
